@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is file3.txt created locally
 This is just a bugfix
+=======
+This is file7.txt created locally
+>>>>>>> f6a5586d8abe8f6dc2ba562890c7b0b2bdaa1355
